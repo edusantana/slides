@@ -1,0 +1,6 @@
+file 'Rakefile'
+file 'slides.html' => ['slides.md', 'Rakefile'] do
+    sh 'pandoc -t revealjs -s slides.md -o slides.html --slide-level=2 -V revealjs-url:./reveal.js'
+end
+
+task :default => ['slides.html']
