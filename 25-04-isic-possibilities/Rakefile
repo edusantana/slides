@@ -4,3 +4,7 @@ file 'slides.html' => ['slides.md', 'Rakefile'] do
 end
 
 task :default => ['slides.html']
+
+task :guard do
+  `bundle exec guard`
+end
