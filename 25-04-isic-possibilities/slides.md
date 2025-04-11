@@ -9,6 +9,8 @@ format:
 
 - Eduardo de Santana Medeiros (eduardo.ufpb@gmail.com)
 - Master's and Bachelor's degree in Computer Science
+- From João Pessoa/Paraíba - Brazil.
+- Traveled to: Canada, United States, Argentina, Mexico, Colombia, Peru, Foz do Iguaçu
 - Catholic -> Spiritist -> Conscientiologist
 
 ## As a Software Developer
@@ -43,7 +45,6 @@ format:
 
 - There is an automated process to test software
 - We release changes throughout the day
-- We might roll back changes
 - Release software with errors
 - Might keep a changelog
   - Semantic Versioning: v7.0.8.7
@@ -95,8 +96,8 @@ format:
 ## Consequences
 
 - A lot of single-edition books
+  - Nobody touches other people's text — *not comfortable making improvements*
 - Low incentive for **active authors**
-- Nobody touches other people's text — *not comfortable making improvements*
 - Audience stuck with outdated information
 - Book design gets into a queue — an entire book must be designed by a single person-machine-file
 - The book is pretty
@@ -146,6 +147,8 @@ and tactics for introducing new products, services, and brands to the market, es
 
 ## Arabic Glossary
 
+**Attention translators** -- see the comments inside the source of the book
+
 - [Arabic glossary](https://github.com/edusantana/glossario-arabe-conscienciologia)
 
 # Improvements and Understanding
@@ -156,48 +159,68 @@ and tactics for introducing new products, services, and brands to the market, es
 
 ![](img/copyright-infringement.png){scale=0.5 height=200px}
 
-- [Choose another license](https://choosealicense.com/) that encourages collaboration
+## Collaborate, collaborate, collaborate
 
-## Release More
+- [Choose a copy left license](https://choosealicense.com/) that encourages collaboration
+- We need a *legal cosmoethical license* for our books
+
+## Release More, release often
 
 - Release incomplete, with errors, release all the time
 - Create a dedicated space for the book's audience
-  - Engage the audience earlier, get public feedback
+  - Engage the audience earlier, get feedback
   - Invite readers/peers to collaborate
 
 ## Institutional Books
 
 - I am in favor of institutional books
-- Make commitments to update the book
-  - Others might update the text you authored, and that's fine
-- The full book should always reflect what the institution wants to share
+- Make grupal gescons easier
 
 ## Translators
 
-- Original language inside comments
-- Benefit from updates without caring too much about formats
+- Updates without caring too much about formatting
+- Original language source lives inside, as comments
+- The work will be easier If you learn new tools
+  - We can show which lines were updated between two versions
+
+## Optimize PDFs for screens (not only print)
+
+- Use internal links no navigate in the document
+- Add links to download content
+- Also add QRCodes to content (useful for print)
 
 ## Kindle
 
 - ePub (Kindle) is important too
+- Reading a ePub file in phone is much better than read a PDF
 
 ## Resources Available Online
 
 - Make resources available online (spreadsheets, slides)
-- Allow teachers to use/edit for their needs (without it being a crime)
+- Allow teachers to use/edit for their needs
 
-## Marketing Tools
+## Free distribution
 
-- Integrate marketing tools
+- Books should be free to distribute
+- You might request financial contribution inside the book
+- Use books as a call for courses
 
-We should be able to know for each reader:
+## Integrate Marketing Tools
+
+The book is another media from your campaign
+
+The institution should be able to know its readers:
 
 - Who is he/she?
 - Which links did he/she open?
 - When did they click?
 - Where is the person? Which country? City?
 - Which other books have they already read?
-- Is there interest in new courses and books?
+- Which topics are they interest?
+
+## Security
+
+- Books should be digitally certified by its Institution
 
 ## ISIC Operating Context
 
